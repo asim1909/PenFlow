@@ -42,7 +42,7 @@ function Auth() {
       <div className="container page">
         <div className="row">
           <div className="col-md-6 offset-md-3 col-xs-12">
-            <h1 className="text-center text-4xl font-bold text-[#243635] mb-2 mt-36">Sign {isRegister ? "up" : "in"}</h1>
+            <h1 className="text-center text-4xl font-bold text-[#475756] mb-2 mt-36">Sign {isRegister ? "up" : "in"}</h1>
             <p className="text-xs-center mb-8">
               <Link to={isRegister ? "/login" : "/register"} className="text-[#5e6c6b] hover:text-[#5E6C6B]">
                 {isRegister ? "Already have an account?" : "Don't have an account?"}
@@ -87,7 +87,7 @@ function Auth() {
                     <div style={{ textAlign: "center" }}>
                       <button
                         type="submit"
-                        className="btn btn-lg hover:bg-[#475756] bg-[#243635] border-none text-[#FCFBF9] mt-2 rounded-full"
+                        className="btn btn-lg hover:bg-[#475756] bg-[#916d6d] border-none text-[#FCFBF9] mt-2 rounded-full"
                       >
                         Sign {isRegister ? "up" : "in"}
                       </button>
