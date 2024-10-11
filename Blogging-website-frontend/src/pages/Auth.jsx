@@ -87,7 +87,7 @@ function Auth() {
                     <div style={{ textAlign: "center" }}>
                       <button
                         type="submit"
-                        className="btn btn-lg hover:bg-[#475756] bg-[#916d6d] border-none text-[#FCFBF9] mt-2 rounded-full"
+                        className="btn btn-lg hover:bg-[#475756] bg-[#916d6d] border-none text-[#916d6d] mt-2 rounded-full"
                       >
                         Sign {isRegister ? "up" : "in"}
                       </button>
