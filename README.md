@@ -1,7 +1,5 @@
 <h1 align="center">Welcome to PenFlow Blogging Website ✍️</h1>
 
-[![wakatime](https://wakatime.com/badge/user/your-wakatime-id/project/penflow.svg)](https://wakatime.com/badge/user/your-wakatime-id/project/penflow)
-
 **PenFlow** is a powerful blogging platform that gives users the freedom to create, manage, and share their thoughts with the world. Whether you’re an aspiring writer or an experienced blogger, PenFlow provides all the tools you need to craft and publish your stories with ease.
 
 ---
@@ -12,13 +10,7 @@
   
 - **Content Management**: Complete control over blog posts with Create, Read, Update, and Delete (CRUD) functionality.
 
-- **Rich Text Editor**: A user-friendly Markdown editor for crafting posts with formatting options and inline image support.
-
 - **Comment System**: Readers can engage with articles by leaving comments, and authors can moderate or delete unwanted feedback.
-
-- **User Profiles**: Personalized profiles where users can showcase their published and favorited articles.
-
-- **Tag-Based Navigation**: Easily explore content by tags, helping readers discover topics of interest.
 
 - **Responsive Design**: Seamless experience across devices, ensuring readability whether on desktop or mobile.
 
@@ -30,7 +22,6 @@
 - **Backend**: Node.js, Express.js
 - **Database**: MongoDB for storing users, articles, and comments
 - **Authentication**: JWT-based authentication for user security
-- **API**: RESTful APIs for efficient interaction between frontend and backend
 
 ---
 
@@ -71,8 +62,8 @@ Follow these steps to set up PenFlow locally:
 
     ```plaintext
     PORT=3000
-    DATABASE_URI=your_database_uri_here
-    JWT_SECRET=your_jwt_secret_here
+    DATABASE_URI=your_database_uri
+    JWT_SECRET=your_jwt_secret_
     ```
 
     Make sure to replace `your_database_uri_here` with your actual MongoDB URI and `your_jwt_secret_here` with a secure secret key for JWT.
