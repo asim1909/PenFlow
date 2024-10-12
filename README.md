@@ -27,7 +27,7 @@
 
 ## 🌍 Live Demo
 
-Check out PenFlow in action at [https://penflow.com/](https://penflow-s67b.onrender.com/)
+Check out PenFlow in action at [https://penflow.in/](https://penflow-s67b.onrender.com/)
 
 ---
 
