@@ -72,14 +72,14 @@ Follow these steps to set up PenFlow locally:
 
    - **Frontend** (run this in one terminal):
     ```bash
-    cd frontend
+    cd Blogging-website-frontend
     npm install
     npm run dev
     ```
 
    - **Backend** (run this in another terminal):
     ```bash
-    cd backend
+    cd Blogging-website-Backend
     npm install
     npm run dev
     ```
