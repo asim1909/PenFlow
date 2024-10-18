@@ -109,7 +109,7 @@ Follow these steps to set up PenFlow locally:
 
 ## 🤝 Contributing
 
-We welcome contributions to PenFlow! Feel free to submit pull requests or report issues. Please check out the [CONTRIBUTING.md] for guidelines.
+We welcome contributions to PenFlow! Feel free to submit pull requests or report issues.
 
 ---
 
